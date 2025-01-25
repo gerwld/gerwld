@@ -45,7 +45,7 @@ Front-end Development is a new call for realizing my strong ability to adapt to 
 Project title|Project Deploy|Project Description|
 :-----------:|:------------:|-------------------|
 [RSS CV](https://github.com/PavelTitov16/rsschool-cv)|[CV project](https://paveltitov16.github.io/rsschool-cv/)|My first CV project during the RollingScopesSchool courses JavaScript/Front-end. Stage 0|
--->
+
 
 
 ## **Languages** ##
