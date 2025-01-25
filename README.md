@@ -1,5 +1,5 @@
 ### Hello there 👋
-[![](https://www.codewars.com/users/gerwld/badges/large)](https://www.codewars.com/users/gerwld)    
+[![](https://www.codewars.com/users/gerwld/badges/large)](https://www.codewars.com/users/gerwld/completed_solutions)    
 
 
 ## **About me** ##
