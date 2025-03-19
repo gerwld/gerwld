@@ -14,11 +14,11 @@
 Front-end Development is a new call for realizing my strong ability to adapt to new environment and challenges. I want to take part in new activities with my persistence in bringing the work started to the end with high ability of team playing - want to feel myself needed in using my English.
 
 ## **Skills & Technologies** ##
-![](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
-![](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
-![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
-![](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=Sass&logoColor=pink)
+
 ![](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue)
+![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=Nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=Sass&logoColor=pink)
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=cyan)
 ![](https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logo=React&logoColor=cyan)
 ![](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=Redux&logoColor=magenta)
@@ -27,10 +27,13 @@ Front-end Development is a new call for realizing my strong ability to adapt to 
 ![](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=cyan)
 ![](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=blue)
 ![](https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=php&logoColor=green)
+![](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
+![](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
 
 
 ![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=tomato)
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
+![](https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logo=webflow&logoColor=teal)
 ![](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=red)
 ![](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=P&logoColor=blue)
 ![](https://img.shields.io/badge/-Illustrator-black?style=for-the-badge&logo=P&logoColor=blue)
@@ -39,6 +42,7 @@ Front-end Development is a new call for realizing my strong ability to adapt to 
 ![](https://img.shields.io/badge/-ESLint-black?style=for-the-badge&logo=ESLint&logoColor=purple)
 ![](https://img.shields.io/badge/-Axios-black?style=for-the-badge&logo=axios&logoColor=white)
 ![](https://img.shields.io/badge/-pnpm-black?style=for-the-badge&logo=pnpm)
+![](https://img.shields.io/badge/-bun-black?style=for-the-badge&logo=bun)
 
 <!--
 ## **Pet Projects** ##
