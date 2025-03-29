@@ -24,8 +24,6 @@ _Check out my website for more:_
 ![](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=Sass&logoColor=pink)
 ![](https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logo=React&logoColor=cyan)
 ![](https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=php&logoColor=green)
-![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=tomato)
-![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logo=webflow&logoColor=teal)
 ![](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=red)
 ![](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=P&logoColor=blue)
