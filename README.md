@@ -34,7 +34,6 @@ _Check out my website for more:_
 ![](https://img.shields.io/badge/-ESLint-black?style=for-the-badge&logo=ESLint&logoColor=purple)
 ![](https://img.shields.io/badge/-Axios-black?style=for-the-badge&logo=axios&logoColor=white)
 ![](https://img.shields.io/badge/-pnpm-black?style=for-the-badge&logo=pnpm)
-![](https://img.shields.io/badge/-bun-black?style=for-the-badge&logo=bun)
 
 
  [![](https://www.codewars.com/users/gerwld/badges/small)](https://www.codewars.com/users/gerwld)    
